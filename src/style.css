@@ -6,3 +6,7 @@ body {
   color: red;
   background: url('./icon.png');
 }
+
+.head h1 {
+  color: blue;
+}
