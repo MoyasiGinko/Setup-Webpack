@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+.hello {
+  color: red;
+  background: url('./icon.png');
+}
+
+.head h1 {
+  color: blue;
+}
